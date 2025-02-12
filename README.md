@@ -1,6 +1,6 @@
 ## partyvite
 
-A starter template for 🎈 partyserver ⨉ ⚡️ vite ⨉ ⚛️ react ⨉ 🌊 tailwindcss ⨉ ⛅️ cloudflare workers
+A (beta) starter template for 🎈 partyserver ⨉ ⚡️ vite ⨉ ⚛️ react ⨉ 🌊 tailwindcss ⨉ ⛅️ cloudflare workers
 
 ```sh
 npm create cloudflare@latest --template threepointone/partyvite
