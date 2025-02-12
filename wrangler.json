@@ -1,7 +1,7 @@
 {
   "name": "my-party-server",
   "main": "./src/server.tsx",
-  "compatibility_date": "2025-02-12",
+  "compatibility_date": "2025-02-04",
   "assets": {
     "directory": "./public"
   },
