@@ -1,0 +1,30 @@
+{
+  "name": "partyvite-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite dev",
+    "deploy": "rm -rf dist && vite build && wrangler deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "partyserver (x) vite",
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^0.0.8",
+    "@cloudflare/workers-types": "^4.20250204.0",
+    "@tailwindcss/vite": "^4.0.6",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0",
+    "wrangler": "^3.108.1"
+  },
+  "dependencies": {
+    "partyserver": "^0.0.64",
+    "partysocket": "^1.0.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
