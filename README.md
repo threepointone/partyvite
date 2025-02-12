@@ -3,7 +3,7 @@
 A (beta) starter template for 🎈 partyserver ⨉ ⚡️ vite ⨉ ⚛️ react ⨉ 🌊 tailwindcss ⨉ ⛅️ cloudflare workers
 
 ```sh
-npm create cloudflare@latest --template threepointone/partyvite
+npm create cloudflare@latest -- --template threepointone/partyvite
 ```
 
 ## what next?
