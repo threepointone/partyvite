@@ -6,7 +6,7 @@ A (beta) starter template for 🎈 partyserver ⨉ ⚡️ vite ⨉ ⚛️ react 
 npm create cloudflare@latest --template threepointone/partyvite
 ```
 
-## optionally: run `node bootstrap.cjs` to:
+## what next?
 
 - change the name of the package (in `package.json`)
 - change the name of the worker (in `wrangler.json`)
