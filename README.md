@@ -3,7 +3,7 @@
 A (beta) starter template for 🎈 partyserver ⨉ ⚡️ vite ⨉ ⚛️ react ⨉ 🌊 tailwindcss ⨉ ⛅️ cloudflare workers ⨉ 📦 durable objects
 
 ```sh
-npm create cloudflare@latest -- --template threepointone/partyvite
+npm create cloudflare@latest --template threepointone/partyvite
 ```
 
 ## what next?
@@ -15,4 +15,4 @@ npm create cloudflare@latest -- --template threepointone/partyvite
 ## other versions:
 
 - vue, by [Francisco Hermida](https://x.com/FranciscoHPro) at https://github.com/franciscohermida/partyvite-vue
-  - `npm create cloudflare@latest -- --template franciscohermida/partyvite-vue`
+  - `npm create cloudflare@latest --template franciscohermida/partyvite-vue`
