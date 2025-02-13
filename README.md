@@ -14,5 +14,7 @@ npm create cloudflare@latest -- --template threepointone/partyvite
 
 ## other versions:
 
-- vue, by [Francisco Hermida](https://x.com/FranciscoHPro) at https://github.com/franciscohermida/partyvite-vue
+- Vue, by [Francisco Hermida](https://x.com/FranciscoHPro) at https://github.com/franciscohermida/partyvite-vue
   - `npm create cloudflare@latest -- --template franciscohermida/partyvite-vue`
+- Svelte, by [Josh Nussbaum](https://bsky.app/profile/joshnuss.com) at https://github.com/joshnuss/partyvite-svelte
+  - `npm create cloudflare@latest -- --template joshnuss/partyvite-svelte`
