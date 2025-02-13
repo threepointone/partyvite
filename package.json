@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "start": "vite dev",
-    "deploy": "rm -rf dist && vite build && wrangler deploy"
+    "deploy": "rm -rf dist && vite build && wrangler deploy",
+    "check": "tsc"
   },
   "keywords": [],
   "author": "",
