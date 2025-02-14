@@ -1,6 +1,8 @@
 import { Connection, Server, routePartykitRequest } from "partyserver";
 
-type Env = {};
+type Env = {
+  MyServer: DurableObjectNamespace<MyServer>;
+};
 
 export class MyServer extends Server<Env> {
   onMessage(connection: Connection<unknown>, message: string) {
