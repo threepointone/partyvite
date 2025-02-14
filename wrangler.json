@@ -2,6 +2,7 @@
   "name": "my-party-server",
   "main": "./src/server.tsx",
   "compatibility_date": "2025-02-04",
+  "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "directory": "./public"
   },

@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "partyserver (x) vite",
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^0.0.8",
+    "@cloudflare/vite-plugin": "^0.1.1",
     "@cloudflare/workers-types": "^4.20250204.0",
     "@tailwindcss/vite": "^4.0.6",
     "@types/react": "^19.0.8",
@@ -21,7 +21,7 @@
     "tailwindcss": "^4.0.6",
     "typescript": "^5.7.3",
     "vite": "^6.1.0",
-    "wrangler": "^3.108.1"
+    "wrangler": "^3.109.1"
   },
   "dependencies": {
     "partyserver": "^0.0.64",
