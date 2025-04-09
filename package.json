@@ -12,21 +12,21 @@
   "license": "ISC",
   "description": "partyserver (x) vite",
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^0.1.15",
-    "@cloudflare/workers-types": "^4.20250321.0",
-    "@tailwindcss/vite": "^4.0.15",
-    "@types/react": "^19.0.12",
-    "@types/react-dom": "^19.0.4",
+    "@cloudflare/vite-plugin": "^1.0.4",
+    "@cloudflare/workers-types": "^4.20250409.0",
+    "@tailwindcss/vite": "^4.1.3",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.2",
     "@vitejs/plugin-react": "^4.3.4",
-    "tailwindcss": "^4.0.15",
-    "typescript": "^5.8.2",
-    "vite": "^6.2.3",
-    "wrangler": "^4.4.0"
+    "tailwindcss": "^4.1.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.2.5",
+    "wrangler": "^4.9.1"
   },
   "dependencies": {
     "partyserver": "^0.0.66",
-    "partysocket": "^1.1.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "partysocket": "^1.1.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
